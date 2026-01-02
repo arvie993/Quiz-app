@@ -163,7 +163,7 @@ sudo dnf install python3-tkinter
 This project is open source. Feel free to fork, modify, and distribute.
 
 ## Author
-Aravind + Claude
+### Aravind + Claude
 
 _Created as part of the 100 Days of Python challenge._
 
