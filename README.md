@@ -164,6 +164,7 @@ This project is open source. Feel free to fork, modify, and distribute.
 
 ## Author
 Aravind + Claude
+
 Created as part of the 100 Days of Python challenge.
 
 ## Contributing
